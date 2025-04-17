@@ -1,1 +1,2 @@
-# Tiny Rendering Engine (TRE for short) is a cross-platform rendering engine.
+# Tiny Rendering Engine (TRE for short) 
+Tiny Rendering Engine is a cross-platform rendering engine.
